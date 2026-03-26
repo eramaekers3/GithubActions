@@ -1,4 +1,4 @@
-[![Run App Ramaekers, Ethan](https://github.com/eramaekers3/GithubActions/actions/workflows/ci.yml/badge.svg)](https://github.com/eramaekers3/GithubActions/actions/workflows/ci.yml)
+[![Run App Ramaekers, Ethan](https://github.com/eramaekers3/GithubActions/actions/workflows/run-app.yml/badge.svg)](https://github.com/eramaekers3/GithubActions/actions/workflows/ci.yml)
 
 # Do not submit a pull request to `kgerot/GithubActions` or `dteske/TraviCI`. Not following this instruction can ruin the lab for others, so pay attention.
 
